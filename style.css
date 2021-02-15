@@ -1,0 +1,246 @@
+
+body .page_header{
+    color: white;
+    z-index: 1;
+    position: relative;
+    width: 102%;
+    height: 41px;
+    background-color: #111111;
+    box-shadow: 1px 2px 4px #d5cccc;
+
+}
+.page_header .list ,.page_header .list ul{
+    margin: 0 0 0 0;
+    padding: 0;
+    list-style: none;
+
+}
+.page_header .list li ,.sub-list li{
+    float: left;
+    width: 139px;
+    height: 41px;
+    background-color: #141514;
+    opacity: 0.8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 21px;
+
+}
+.page_header .list li a ,.sub-list li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    cursor: pointer;
+}
+.page_header .list li i{
+    margin: 5px;
+}
+
+.page_header .list li a:hover ,.sub-list li a:hover{
+    background: green;
+
+}
+.page_header .list li ul li{
+    display: none;
+}
+.page_header .list li:hover ul li{
+    display: block;
+}
+.slider_images{
+    position: relative;
+}
+.slider_images::before{
+    content: "Hello I'm Dilshan Rajika Withanachchci";
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 51px;
+    background: -webkit-linear-gradient(360deg, #0a37e8,#dc0c0c,black,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: max-content;
+    height: max-content;
+    font-weight: 600;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    z-index: 4;
+
+}
+
+.slider_images::after{
+    content: "Hello I'm Dilshan Rajika Withanachchci";
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 32px;
+    color: #f3efef;
+    width: max-content;
+    height: max-content;
+    font-weight: 600;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 102px;
+}
+.slider_images .logo{
+    position: absolute;
+    width: 215px;
+    left: 0;
+    margin: auto;
+    top: 0;
+
+}
+main .slider_images img{
+    width: 100%;
+    margin-top: -83px;
+}
+main .slider_images{
+    position: relative;
+}
+main .slider_images .header_btn_panel{
+    width: max-content;
+    height: 40px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: -202px;
+
+}
+main .slider_images .header_btn_panel .header_btn{
+    background: linear-gradient(360deg,#e74c3c, #e74a39);
+    height: 46px;
+    width: max-content;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+main .slider_images .header_btn_panel .header_btn i{
+    color: #f5eeee;
+    margin: 3px;
+    font-size: 26px;
+}
+main .slider_images .header_btn_panel .header_btn a{
+    text-decoration: none;
+    color: #f5f0f0;
+    font-size: 26px;
+
+}
+main .slider_images .header_btn_panel .header_btn:hover{
+    transform: scale(0.9);
+}
+abbr[title]{
+    text-decoration: none;
+}
+/*===============================Social Media Header==========================================================*/
+
+.wrapper{
+    display: inline-flex;
+    place-items: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 31px;
+    margin: auto;
+}
+.wrapper .icon{
+    margin: -7px 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transform: translate(32px, 10px);
+    transition: all 0.4s cubic-bezier(0.68,-0.55,0.265,1.55);
+}
+
+.wrapper .icon span{
+    height: 37px;
+    width: 37px;
+    background: transparent;
+    display: block;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    text-align: center;
+    border-radius: 50%;
+}
+.wrapper .icon span i{
+    font-size: 20px;
+    line-height: 58px;
+    transform: translate(0,-10px);
+}
+.wrapper .icon .fa{
+    color: #fff;
+}
+.wrapper .icon .tooltip{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    font-size: 11px;
+    padding: 7px 5px;
+    border-radius: 20px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.4s cubic-bezier(0.68,-0.55,0.265,1.55);
+}
+.wrapper .icon:hover .tooltip{
+    opacity: 1;
+    top: -31px;
+    pointer-events: auto;
+}
+.wrapper .icon .tooltip:before{
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%)rotate(45deg);
+
+}
+
+.wrapper .icon:hover span i{
+    color: #fff;
+}
+.wrapper .icon:hover span,.wrapper .icon:hover.tooltip{
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+.wrapper .facebook:hover span,
+.wrapper .facebook:hover .tooltip,
+.wrapper .facebook:hover .tooltip:before{
+    background: #3B5999;
+}
+.wrapper .icon:hover span,.wrapper .icon:hover.tooltip{
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+    background: #333;
+}
+.wrapper .icon:hover span,.wrapper .icon:hover.tooltip{
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+.wrapper .whatsapp:hover span,
+.wrapper .whatsapp:hover .tooltip,
+.wrapper .whatsapp:hover .tooltip:before{
+    background: #0f8201;
+}
+.wrapper .icon:hover span,.wrapper .icon:hover.tooltip{
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+.wrapper .instagram:hover span,
+.wrapper .instagram:hover .tooltip,
+.wrapper .instagram:hover .tooltip:before{
+    background: #e13063;
+}
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+    background: #0c4ae8;
+}
+/*===============================Social Medial End==========================================================*/
