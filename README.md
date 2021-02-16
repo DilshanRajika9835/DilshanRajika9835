@@ -19,13 +19,6 @@ Welcome to my Github profile!:
 </p>
 <dl>
   <dt>Welcome My github Profile</dt>
-  <dd>- 😄 I’m Student Of IJSE..</dd>
-  <dd>-🌱 I’m currently learning </dd>
-  <dd>-👯 I’m looking to collaborate on ...</dd>
-  <dd>-💬 Ask me about ...</dd>
-  <dd>-🔭 I’m Student Of IJSE..</dd>
-  <dd>-📫 How to reach me: ...</dd>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+   <dt>Welcome My github Profile</dt>
 </dl>
  <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/srilanka.gif" width="30" title="Sri Lanka"></a>
