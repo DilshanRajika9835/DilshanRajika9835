@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/remote-work-misconceptions.png)
 <br>
-![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/Skills.png)
+  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/Skills.png" width="200" title="Software Skill">
 <br>
 
 <dt >Follow Me On ..</dt>
