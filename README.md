@@ -18,7 +18,7 @@ Welcome to my Github profile!:
  
 </p>
 <dl>
-  <dt>+Welcome My github Profile+</dt>
+  <dt>Welcome My github Profile</dt>
   <h4> 
 Full Name Withanachchi Dilshan Rajika<br>
 Date Of Birth:5-March - 1998<br>
