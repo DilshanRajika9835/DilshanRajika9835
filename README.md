@@ -24,7 +24,7 @@ Full Name Withanachchi Dilshan Rajika<br>
 Date Of Birth:5-March - 1998<br>
 Nic Number 9806453285V<br>
 Address: No37,Hamugewaththa Uluvitike Galle<br>
-Email :<a>dilshanrajitha1998@gmail.com</a><br>
+Email :<a href="mailto:dilshanrajitha1998@gmail.com">dilshanrajitha1998@gmail.com</a><br>
 Phone :+94 766681528<br>
 Country:Sri Lanka<br>
 City :Galle<br>
