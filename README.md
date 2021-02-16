@@ -8,7 +8,7 @@ Welcome to my Github profile!:
 <br>
 
 <dt >Follow Me On ..</dt>
-<p align="center">
+
  <a href="tel:+94766681528"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="30" title="WhatsApp"></a>
   
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="30" title="LinkdIn">
@@ -20,7 +20,6 @@ Welcome to my Github profile!:
    <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="30" title="Stackoverflow">
    
    <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/youtube.png" width="30" title="Youtube">
-</p>
  
 
  
