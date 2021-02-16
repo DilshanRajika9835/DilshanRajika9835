@@ -17,14 +17,16 @@ Welcome to my Github profile!:
    <a href="https://www.youtube.com/channel/UCrgbbnpSoIFDEavVBC1jUxA"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/youtube.png" width="30" title="Youtube"></a>
  
 </p>
-<dd>
-- 🔭 I’m Student Of IJSE..
-- 🌱 I’m currently learning  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-</dd>
+<dl>
+  <dt>Welcome My github Profile</dt>
+  <dd>- 😄 I’m Student Of IJSE..</dd>
+  <dd>-- 🌱 I’m currently learning </dd>
+  <dd>-- 👯 I’m looking to collaborate on ...</dd>
+  <dd>-- 💬 Ask me about ...</dd>
+  <dd>- 🔭 I’m Student Of IJSE..</dd>
+  <dd>- 📫 How to reach me: ...</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
  <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/srilanka.gif" width="30" title="Sri Lanka"></a>
