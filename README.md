@@ -9,17 +9,17 @@ Welcome to my Github profile!:
 
 <dt >Follow Me On ..</dt>
 <p align="center">
-  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="20" title="WhatsApp">
+ <a href="tel:+94766681528"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="30" title="WhatsApp"></a>
   
-  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="20" title="LinkdIn">
+  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="30" title="LinkdIn">
   
-   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/facebook.png" width="20" title="FaceBook">
+   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/facebook.png" width="30" title="FaceBook">
    
-  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/instergram.png" width="20" title="Instagram">
+  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/instergram.png" width="30" title="Instagram">
   
-   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="20" title="Stackoverflow">
+   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="30" title="Stackoverflow">
    
-   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/youtube.png" width="20" title="Youtube">
+   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/youtube.png" width="30" title="Youtube">
 </p>
  
 
