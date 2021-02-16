@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <h1 >Follow Me On ..</h1>
 <p align="center">
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="50" title="hover text">
-  <a href="www.google.com"><img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="50" alt="accessibility text"></a>
+  <a href="https://stackoverflow.com/"><img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/linkedin.png" width="50" alt="accessibility text"></a>
 </p>
  
 
