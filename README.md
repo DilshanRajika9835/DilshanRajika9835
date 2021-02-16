@@ -20,14 +20,14 @@ Welcome to my Github profile!:
 <dl>
   <dt>Welcome My github Profile</dt>
   <dt>
-Full Name Withanachchi Dilshan Rajika
-Date Of Birth:5-March - 1998
-Nic Number 9806453285V
-Address: No37,Hamugewaththa Uluvitike Galle
-Email :Dilshanrajitha1998@gmail.com
-Phone :+94 766681528
-Country:Sri Lanka
-City :Galle
+Full Name Withanachchi Dilshan Rajika<br>
+Date Of Birth:5-March - 1998<br>
+Nic Number 9806453285V<br>
+Address: No37,Hamugewaththa Uluvitike Galle<br>
+Email :<a>dilshanrajitha1998@gmail.com</a><br>
+Phone :+94 766681528<br>
+Country:Sri Lanka<br>
+City :Galle<br>
 </dt>
 </dl>
  <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/srilanka.gif" width="30" title="Sri Lanka"></a>
