@@ -25,7 +25,6 @@ Welcome to my Github profile!:
   <dd>-- 💬 Ask me about ...</dd>
   <dd>- 🔭 I’m Student Of IJSE..</dd>
   <dd>- 📫 How to reach me: ...</dd>
-
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
