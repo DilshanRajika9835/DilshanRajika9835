@@ -25,7 +25,7 @@ Date Of Birth:5-March - 1998<br>
 Nic Number 9806453285V<br>
 Address: No37,Hamugewaththa Uluvitike Galle<br>
 Email :<a href="mailto:dilshanrajitha1998@gmail.com">dilshanrajitha1998@gmail.com</a><br>
-Phone :<a href="telto:+94 766681528">+94 766681528</a><br>
+Phone No :+94 766681528<br>
 Country:Sri Lanka  <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/srilanka.gif" width="30" title="Sri Lanka"></a><br>
 City :Galle<br>
 </h4>
