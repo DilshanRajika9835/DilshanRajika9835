@@ -6,7 +6,7 @@ Welcome to my Github profile!:
 <br>
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/Skills.png" width="200" title="Software Skill">
 <br>
-[logo]:https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/Skills.png "Logo Title Text 2"
+
 <dt >Follow Me On ..</dt>
 <p align="center">
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="20" title="WhatsApp">
