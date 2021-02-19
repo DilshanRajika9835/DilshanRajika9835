@@ -21,8 +21,8 @@ Welcome to my Github profile!:
   <dt>Welcome My github Profile</dt>
   <h4> 
 Full Name Withanachchi Dilshan Rajika<br>
-Date Of Birth:5-March - 1998<br>
-Nic Number 9806453285V<br>
+Date Of Birth:05-March - 1998<br>
+NIC Number 980653285V<br>
 Address: No37,Hamugewaththa Uluvitike Galle<br>
 Email :<a href="mailto:dilshanrajitha1998@gmail.com">dilshanrajitha1998@gmail.com</a><br>
 Phone No :+94 766681528<br>
