@@ -20,7 +20,7 @@ Welcome to my Github profile!:
 <dl>
   <dt>Welcome My github Profile</dt><hr>
   <h4> 
-Full Name : Withanachchi Dilshan Rajika <br>I'm Currently Study about java and web designing in <abbr title="Institute of Java Software Engineering">IJSE</abbr> Institute <br>
+Full Name : Withanachchi Dilshan Rajika <br>I'm Currently Study about java and web Designing in <abbr title="Institute of Java Software Engineering">IJSE</abbr> Institute <br>
 Email :<a href="mailto:dilshanrajitha1998@gmail.com">dilshanrajitha1998@gmail.com</a><br>
 Phone No :+94 766681528<br>
 Country:Sri Lanka <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/srilanka.gif" width="20" title="Sri Lanka"></a><br>
