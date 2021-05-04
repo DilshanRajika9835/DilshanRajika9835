@@ -4,7 +4,7 @@
 Welcome to my Github profile!:
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/remote-work-misconceptions.png)
 <br>
-  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/language.png" width="200" title="Software Skill">
+  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/language.png"  title="Software Skill">
   
 <br>
 
