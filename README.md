@@ -5,6 +5,7 @@ Welcome to my Github profile!:
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/remote-work-misconceptions.png)
 <br>
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/Skills.png" width="200" title="Software Skill">
+   <img src="https://img.icons8.com/color/452/spring-logo.png" width="200" title="Software Skill">
 <br>
 
 <dt >FIND ME ELESE WHERE ..</dt>
