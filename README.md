@@ -7,7 +7,8 @@ Welcome to my Github profile!:
   <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/language.png"  title="Software Skill">
   
 <br>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158" height="20" role="img" aria-label="Profile views: 1234567890"><title>Profile views: 1234567890</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="158" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="79" height="20" fill="#555"/><rect x="79" width="79" height="20" fill="#4c1"/><rect width="158" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="405" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="690">Profile views</text><text x="405" y="140" transform="scale(.1)" fill="#fff" textLength="690">Profile views</text><text aria-hidden="true" x="1175" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="690">1234567890</text><text x="1175" y="140" transform="scale(.1)" fill="#fff" textLength="690">1234567890</text></g></svg>
+<br>
 <dt >FIND ME ELESE WHERE ..</dt>
 <p align="center">
  <a href="#"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/whatsapp.png" width="30" title="WhatsApp:+94766681528"></a>
