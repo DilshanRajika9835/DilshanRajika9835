@@ -22,7 +22,7 @@ Welcome to my Github profile!:
 </p>
 <dl>
   <dt>Welcome My github Profile</dt><hr>
-  <h6>I ‘m an undergraduate student at<abbr title="Institute of Java Software Engineering">IJSE</abbr> with over 1 year of study experience developing and designing user interface framework for various web based applications and keen to pursue a career process strong skills in full stack development using various technologies.</h6>
+  <h6>I ‘m an undergraduate student at <abbr title="Institute of Java Software Engineering">IJSE</abbr> with over 1 year of study experience developing and designing user interface framework for various web based applications and keen to pursue a career process strong skills in full stack development using various technologies.</h6>
   <h6> 
 <hr/>
 Email :<a href="mailto:dilshanrajitha1998@gmail.com">dilshanrajitha1998@gmail.com</a><br>
