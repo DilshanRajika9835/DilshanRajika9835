@@ -3,10 +3,7 @@
 
 Welcome to my Github profile!:
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/gitProfile.png)
-<br>
-  <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/language.png"  title="Software Skill">
-  
-<br>
+
 
 <br>
 <dt >FIND ME ELESE WHERE ..</dt>
