@@ -2,8 +2,9 @@
 
 
 Welcome to my Github profile!:
-![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/gitProfile.png)
 
+![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/gitProfile.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanRajika9835&show_icons=true&theme=radical)
 
 <br>
 <dt >FIND ME ELESE WHERE ..</dt>
@@ -15,11 +16,16 @@ Welcome to my Github profile!:
    <a href="https://stackoverflow.com/users/13006820/dilshan-rajika"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/stackoverflow.png" width="30" title="Stackoverflow"></a>
    <a href="https://www.youtube.com/channel/UCXhWfIRWN5z-yq7HvGRxyZA"> <img src="https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/youtube.png" width="30" title="Youtube"></a>
 
+
+
  
 </p>
+
 <dl>
   <dt>Welcome My github Profile</dt><hr>
+
   <h6>I ‘m an undergraduate student at <abbr title="Institute of Java Software Engineering">IJSE</abbr> with over 1 year of study experience developing and designing user interface framework for various web based applications and keen to pursue a career process strong skills in full stack development using various technologies.</h6>
+ 
   <h6> 
  
 <hr/>
