@@ -2,6 +2,8 @@
 
 
 Welcome to my Github profile!:
+---
+![](https://komarev.com/ghpvc/?username=DilshanRajika9835&label=PROFILE+VIEWS)
 
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/gitProfile.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanRajika9835&show_icons=true&theme=radical)
