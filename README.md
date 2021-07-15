@@ -5,6 +5,9 @@ Welcome to my Github profile!:
 
 ![myimage-alt-tag](https://github.com/DilshanRajika9835/DilshanRajika9835/blob/main/gitProfile.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanRajika9835&show_icons=true&theme=radical)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanRajika9835&layout=compact)](https://github.com/DilshanRajika9835/github-readme-stats)
+
 
 <br>
 <dt >FIND ME ELESE WHERE ..</dt>
