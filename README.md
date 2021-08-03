@@ -10,6 +10,9 @@ Welcome to my Github profile!:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanRajika9835&layout=compact)](https://github.com/DilshanRajika9835/github-readme-stats)
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-7eb3f26a-9712-4127-873a-d52ba4afe142"></div>
+
 
 <br>
 <dt >FIND ME ELESE WHERE ..</dt>
@@ -40,6 +43,5 @@ Country:Sri Lanka <a href="#"> <img src="https://github.com/DilshanRajika9835/Di
 </h6>
 </dl>
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-7eb3f26a-9712-4127-873a-d52ba4afe142"></div>
+
 
